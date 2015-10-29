@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Markdown",
+		"SublimeCodeIntel",
+		"Vintage"
+	],
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true
+}
