@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"42 Headers",
+		"AAAPackageDev",
+		"AdvancedNewFile",
+		"AutoFileName",
+		"ConvertToUTF8",
+		"Git",
+		"GitGutter",
+		"Haml",
+		"Markdown HTML Preview",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"Ruby Slim",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeREPL",
+		"yardgen"
+	]
+}
